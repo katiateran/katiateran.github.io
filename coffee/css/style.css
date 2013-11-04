@@ -1,0 +1,33 @@
+header {
+	background-image: url("Images/coffee-beans.jpg"); 
+	}
+
+h1 {
+	color: white; 
+	text-transform: uppercase;
+	}
+
+#Dream {
+	color: #CFBC99;
+	text-transform: lowercase;
+	}
+
+nav {
+	background-color: #220E0B;
+	color: #CFBC99;
+	text-transform: lowercase;
+	}
+
+article {
+	background-color: white;
+	color: #220E0B;
+	}
+
+h3 {
+	text-transform: capitalize;
+	}
+
+footer {
+	background-color: #220E0B;
+	color: #CFBC99;;
+}
