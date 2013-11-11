@@ -1,7 +1,7 @@
 body {
 	background-color: #fff;
 	margin: 0px auto;
-	width: 900px;
+	width: 960px;
 	font-family: "Times New Roman";
 	}
 
@@ -14,7 +14,8 @@ header {
 #banner {
 	position: absolute;
 	height:400px;
-	width:900px;
+	top: 240px;
+	width:960px;
 	z-index: -10;
 	}
 
