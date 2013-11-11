@@ -1,16 +1,29 @@
+body {
+	background-color: #fff;
+	margin: 0px auto;
+	width: 900px;
+	font-family: "Times New Roman";
+	}
+
 header {
-	background-image: url("Images/coffee-beans.jpg"); 
+	position: relative;
+	height:3000px
+	width:auto; 
 	}
 
-h1 {
-	color: white; 
-	text-transform: uppercase;
+#banner {
+	position: absolute;
+	height:300px;
+	width:900px;
 	}
 
-#Dream {
-	color: #CFBC99;
-	text-transform: lowercase;
+#logo{
+	margin: 20px 0px 0px 400px;
+	width: 100px;
+	height: auto;
+	z-index: 1;
 	}
+
 
 nav {
 	background-color: #220E0B;
