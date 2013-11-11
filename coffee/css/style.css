@@ -1,7 +1,7 @@
 body {
 	background-color: #fff;
 	margin: 0px auto;
-	width: 960px;
+	width: 900px;
 	font-family: "Times New Roman";
 	}
 
@@ -14,7 +14,7 @@ header {
 #banner {
 	position: absolute;
 	height:300px;
-	width:960px;
+	width:900px;
 	z-index: -10;
 	}
 
@@ -47,6 +47,10 @@ article {
 	text-align: center;
 	}
 
+h3 {
+	text-transform: capitalize;
+	}
+
 #one {
 	float: left;
 	margin-left: 100px;
@@ -55,11 +59,8 @@ article {
 #two{
 	float: right;
 	margin-right: 100px;
-}
-
-h3 {
-	text-transform: capitalize;
 	}
+
 
 footer {
 	background-color: #230B03;
