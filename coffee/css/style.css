@@ -6,27 +6,28 @@ body {
 	}
 
 header {
-	position: relative;
-	height:300px;
-	width: auto;
-	margin: 0 auto; 
+	background-image: url('../Images/beans.jpg'); 
+	height: 275px;
 	}
 
+
 .logo {
-	background-image: url ('Images/coffeelogo.png')
+	background-image: url('../Images/coffeelogo.png');
 	width: 156px;
 	height: 212px;
 	margin: 0 auto;
-}
+	z-index: 10;
+	}
 
 nav {
+	position: relative;
 	text-align: center;
 	background-color: #230B03;
 	color: #CEBB99;
 	text-transform: lowercase;
 	margin: 0 auto;
 	word-spacing: 2em;
-	padding: 1px 0px 1px 0px;
+	font-size: 1.1em;
 	}
 
 li {
@@ -34,6 +35,10 @@ li {
 	display: inline;
 	}
 
+a {
+	text-decoration: none;
+	color: #CEBB99;
+	}
 
 div{
 	background-color: #fff;
@@ -48,7 +53,8 @@ article {
 
 h3 {
 	text-transform: capitalize;
-	font-family: Arial
+	font-family: Arial;
+	margin-top: 0;
 	}
 
 footer {
