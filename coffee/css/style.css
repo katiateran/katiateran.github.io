@@ -28,11 +28,13 @@ header {
 
 nav {
 	text-align: center;
+	display: inline;
 	padding: 10px 0px;
 	background-color: #230B03;
-	color: #CEBB99;
+	color: #C2AD99;
 	text-transform: lowercase;
 	word-spacing: 3em;
+	margin: 0px 12px;
 	}
 
 section{
