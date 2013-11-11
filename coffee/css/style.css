@@ -7,13 +7,13 @@ body {
 
 header {
 	position: relative;
-	height:3000px
+	height:400px
 	width:auto; 
 	}
 
 #banner {
 	position: absolute;
-	height:350px;
+	height:400px;
 	width:900px;
 	z-index: -10;
 	}
