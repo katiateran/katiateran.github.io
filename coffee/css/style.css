@@ -13,7 +13,7 @@ header {
 
 #banner {
 	position: absolute;
-	height:300px;
+	height:500px;
 	width:900px;
 	z-index: -10;
 	}
@@ -28,13 +28,11 @@ header {
 
 nav {
 	text-align: center;
-	display: inline;
 	padding: 10px 0px;
 	background-color: #230B03;
-	color: #C2AD99;
+	color: #CEBB99;
 	text-transform: lowercase;
 	word-spacing: 3em;
-	margin: 0px 12px;
 	}
 
 section{
