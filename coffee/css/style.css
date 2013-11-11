@@ -41,9 +41,21 @@ section{
 	}
 
 article {
-	background-color: white;
+	background-color: #fff;
 	color: #230B03;
+	width: 300px;
+	text-align: center;
 	}
+
+#one {
+	float: left;
+	margin-left: 100px;
+	}
+
+#two{
+	float: right;
+	margin-right: 100px;
+}
 
 h3 {
 	text-transform: capitalize;
