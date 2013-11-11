@@ -36,12 +36,11 @@ nav {
 	}
 
 section{
-	padding: 30px 0px;
+	padding: 30px 30px;
 	background-color: #fff;
 	}
 
 article {
-	background-color: #fff;
 	color: #230B03;
 	width: 300px;
 	text-align: center;
